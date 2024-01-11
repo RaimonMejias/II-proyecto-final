@@ -31,7 +31,7 @@ Pese a que la exportación del proyecto presenta casi toda las dependencias a ne
 #### Postprocesado
 
 #### Modelado 3D
-
+La mayoría de los modelos 3D los hemos realizado nosotros. Consumiendo gran cantidad de tutoriales de blender, hemos aprendido mucho sobre este tema.
 
 #### Audio y doblaje
 
@@ -73,15 +73,20 @@ Unido a la utilización de las google Cardboard se puede simular el efecto de mo
 
 [Ejecución GIF]
 
+#### Realización de animaciones
+
+Hemos dado un paso emocionante en nuestro proyecto, utilizando Blender para dar vida a nuestras creaciones. Hemos ido más allá al incorporar 'huesos' a los modelos, un proceso meticuloso que inyecta realismo y dinamismo en cada movimiento. Posteriormente, estas animaciones cobran vida en Unity, donde utilizamos el Animator Controller para pulir y perfeccionar cada detalle. Esta integración de tecnologías no solo mejora significativamente la experiencia del usuario, sino que también sumerge a los espectadores en un mundo virtual más creíble y cautivador.
+
+[Ejecución GIF]
+
 ### Aspectos a destacar 
 
-#### Agradecimientos
-
 #### Creación de modelados propios y problemas de Ejes 
+Nos enfrentamos a un desafío considerable en la fase de exportación de nuestros modelos desde Blender. Los ejes, esos fundamentos invisibles pero cruciales, se resistían a alinearse correctamente al ser importados en Unity, creando un rompecabezas frustrante. Además, el inesperado gimball lock se convirtió en un obstáculo recurrente, entorpeciendo la fluidez de nuestras animaciones y poniendo a prueba nuestra paciencia y habilidades técnicas.
 
 ### Reparto del trabajo
 
-La idea general para la elaboración de este proyecto es la realización del trabajo separado en varias escenas creadas cada uno por un integrante. 
+La idea general para la elaboración de este proyecto es la realización del trabajo separado en varias escenas creadas cada uno por un integrante. Aún así, a la hora de ensamblar las escenas tuvimos que involucrarnos todos los integrantes con todo el proyecto. 
 Por tanto se ha llevado a cabo la siguiente distribución:
 
 #### Tareas realizadas en conjunto:
@@ -103,4 +108,6 @@ Además de la escena central se han creado 3 escenas adicionales, cada zona del 
 - Isla Cientifica: Raimon Mejías Hernández.
 - Isla Pirata: Saúl Sosa Diaz. 
 
+#### Agradecimientos
+Muchas gracias a Manuel Hernández Pérez, actor de doblaje profesional, por su actuación como la calavera flotante en la isla flotante. 
 
