@@ -1,6 +1,6 @@
 # II-proyecto-final-Aether-Worlds
 ## Autores
- - Raimon Mejías Hernández(alu0101330105ull.edu.es).
+ - Raimon Mejías Hernández(alu0101390161@ull.edu.es).
  - Jorge Gonzales Delgado(alu0101330105@ull.edu.es).
  - Saúl Sosa Díaz (alu0101404141@ull.edu.es).
 
