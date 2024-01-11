@@ -6,13 +6,13 @@
 El programa esta diseñado teniendo en cuenta el uso de un mando conectado por bluetooth, el movimiento y las acciones del usuario estan enteramente ligadas al uso del mando a excepción de la reticula del google cardboard.
 Si se dispone de un mando para poder probar el apk a continuación se listan los controles usados:
 
-Joystick izquierdo: Utilizado para mover al jugador o al coche dependiendo de la escena. 
-Gatillo izquierdo: Marcha atras del coche en la escena vaporwave.
-Gatillo derecho: Acelerar el coche en la escena vaporwave.
-Botón A: Entrar en las diferentes zonas al mirar los portales | Interactuar y lanzar los patos de goma.
-Botón B: Soltar a los patos de goma.
-Botón X: Activar el microfono.
-Botón Y: Desactivar el microfono. 
+- Joystick izquierdo: Utilizado para mover al jugador o al coche dependiendo de la escena. 
+- Gatillo izquierdo: Marcha atras del coche en la escena vaporwave.
+- Gatillo derecho: Acelerar el coche en la escena vaporwave.
+- Botón A: Entrar en las diferentes zonas al mirar los portales | Interactuar y lanzar los patos de goma.
+- Botón B: Soltar a los patos de goma.
+- Botón X: Activar el microfono.
+- Botón Y: Desactivar el microfono. 
 
 #### Paquetes a instalar en caso de modificar el proyecto
 Pese a que la exportación del proyecto presenta casi toda las dependencias a necesitar. Algunos assets utilizados no se guardan en el paquete exportado:
