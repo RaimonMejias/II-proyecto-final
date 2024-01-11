@@ -112,5 +112,5 @@ Además de la escena central se han creado 3 escenas adicionales, cada zona del 
 - Isla Pirata: Saúl Sosa Diaz. 
 
 #### Agradecimientos
-Muchas gracias a Manuel Hernández Pérez, actor de doblaje profesional, por su actuación como la calavera flotante en la isla flotante. 
+Muchas gracias a Manuel Hernández Pérez, actor de doblaje profesional, por su actuación como la calavera flotante en la isla pirata. 
 
