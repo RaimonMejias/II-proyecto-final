@@ -26,7 +26,6 @@ Pese a que la exportación del proyecto presenta casi toda las dependencias a ne
   - CinemaMachine
 
 ### Hitos de programación relacionados con los contenidos impartidos 
-(Aprovechar y ponerlos aquí Ejemplos de la ejecución del programa)  
 
 #### Postprocesado
 
