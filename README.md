@@ -82,6 +82,11 @@ Hemos dado un paso emocionante en nuestro proyecto, utilizando Blender para dar 
 
 ![](Resources/Pulpo.gif)
 
+### Ejecución del juego
+
+[Enlace](https://youtu.be/wG3P28m93ns?si=UoD1iny3nqNgyqLk)
+
+
 ### Aspectos a destacar 
 
 #### Creación de modelados propios y problemas de Ejes 
