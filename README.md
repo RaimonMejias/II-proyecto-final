@@ -29,6 +29,8 @@ Pese a que la exportación del proyecto presenta casi toda las dependencias a ne
 
 #### Postprocesado
 
+![](Resources/Carreras.gif)
+
 #### Modelado 3D
 La mayoría de los modelos 3D los hemos realizado nosotros. Consumiendo gran cantidad de tutoriales de blender, hemos aprendido mucho sobre este tema.
 
@@ -36,6 +38,8 @@ La mayoría de los modelos 3D los hemos realizado nosotros. Consumiendo gran can
 
 Utilizando varios componentes AudioSource y el AudioListener se pueden gestionar de manera secuencial para la realización de dialogos. 
 En la Zona pirata se han utilizado varias boxCollider para representar un dialogo con la calavera
+
+![](Resources/Calavera.gif)
 
 [Poner gif de la calavera spawneando]
 
@@ -47,12 +51,12 @@ El jugador es capaz de tomar el pato utilizando el botón A al mirarlo.
 Volver a pulsar el botón A lanzará al pato en la dirección de la cámara.
 Si se tiene al pato y se presiona el Botón B se soltará al pato sin ninguna fuerza adicional.
 
-[Poner GIF de la Ejecución]
-
 Adicionalmente a la física de los patos, se ha creado un script FanController que añade una fuerza, simulado viento, a los patos.
 permitiendo elevar o mover a los patos en la dirección a la que observe el ventilador. Esto se consigue gracias a Raycast esfericos.
 
-[Poner GIF de la Ejecución]
+![](Resources/Ventiladores.gif)
+
+![](Resources/Patos-volando.gif)
 
 #### Reconocimiento de voz, utilización de microfono y eventos.
 
@@ -63,20 +67,20 @@ El script SpeechRecognition recibe el input de activación del microfono y la vo
 El script VoiceMinigame genera y controla la ejecución del minijuego.
 El script DuckVoiceResponse se mantiene a la escucha del evento MoveDuck y cambia la posición de los patos dentro del tablero.
 
-[Poner GIF de la Ejecución]
+![](Resources/Voice.gif)
 
 #### Utilización de sensor: Giroscopio.
 
 Utilizando los sensores del movil se puede aprovechar el giroscopio para obtener la velocidad ángular del jugador y así comprobar si se esta moviendo el movil.
 Unido a la utilización de las google Cardboard se puede simular el efecto de mover la cabeza dentro del juego.
 
-[Ejecución GIF]
+![](Resources/Giro.gif)
 
 #### Realización de animaciones
 
 Hemos dado un paso emocionante en nuestro proyecto, utilizando Blender para dar vida a nuestras creaciones. Hemos ido más allá al incorporar 'huesos' a los modelos, un proceso meticuloso que inyecta realismo y dinamismo en cada movimiento. Posteriormente, estas animaciones cobran vida en Unity, donde utilizamos el Animator Controller para pulir y perfeccionar cada detalle. Esta integración de tecnologías no solo mejora significativamente la experiencia del usuario, sino que también sumerge a los espectadores en un mundo virtual más creíble y cautivador.
 
-[Ejecución GIF]
+![](Resources/Pulpo.gif)
 
 ### Aspectos a destacar 
 
