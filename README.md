@@ -31,6 +31,8 @@ Pese a que la exportación del proyecto presenta casi toda las dependencias a ne
 
 ![](Resources/Carreras.gif)
 
+Se han añadido con el fin de recrear el efecto característico de los ochenta. Consiste en capas de postprocesado que le dicen a la cámara si debe renderizar los postprocesados y volúmenes que dicen que efectos y en donde debe la cámara mostrar. En nuestro caso las cámaras del circuito se encuentran dentro de un volumen que le da a las cámaras unos efectos diferentes a los que tiene la cámara del jugador que se encuentra dentro de otro volumen distinto. Por desgracia en la versión del móvil, múltiples cámaras y efectos de post procesado, realentizan notablemente la tasa de fotogramas.
+
 #### Modelado 3D
 La mayoría de los modelos 3D los hemos realizado nosotros. Consumiendo gran cantidad de tutoriales de blender, hemos aprendido mucho sobre este tema.
 
@@ -40,8 +42,6 @@ Utilizando varios componentes AudioSource y el AudioListener se pueden gestionar
 En la Zona pirata se han utilizado varias boxCollider para representar un dialogo con la calavera
 
 ![](Resources/Calavera.gif)
-
-[Poner gif de la calavera spawneando]
 
 #### Simulación de físicas
 Para probar los conceptos acerca de física se ha ideado la creación de patos de goma que reboten y le afecte el viento.
